@@ -1,7 +1,5 @@
 # To-Do-list
 tasks = []  # Global list to store tasks
-
-
 def show_tasks():
     """Display all tasks"""
     if not tasks:
